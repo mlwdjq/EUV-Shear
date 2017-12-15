@@ -1,4 +1,4 @@
-
+%%%
 % This script adds programmatic zernikes to the 2-ray method to form a
 % sheared basis and compares the condition numbers of various bases.
 
